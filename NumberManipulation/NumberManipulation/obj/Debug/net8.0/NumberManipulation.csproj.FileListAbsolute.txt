@@ -1,0 +1,14 @@
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\bin\Debug\net8.0\NumberManipulation.exe
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\bin\Debug\net8.0\NumberManipulation.deps.json
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\bin\Debug\net8.0\NumberManipulation.runtimeconfig.json
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\bin\Debug\net8.0\NumberManipulation.dll
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\bin\Debug\net8.0\NumberManipulation.pdb
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\NumberManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\NumberManipulation.AssemblyInfoInputs.cache
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\NumberManipulation.AssemblyInfo.cs
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\NumberManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\NumberManipulation.dll
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\refint\NumberManipulation.dll
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\NumberManipulation.pdb
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\NumberManipulation.genruntimeconfig.cache
+C:\Users\Peroo\OneDrive\Documents\Sambo Folder\Back up Files\C# Projects\NumberManipulation\NumberManipulation\obj\Debug\net8.0\ref\NumberManipulation.dll
